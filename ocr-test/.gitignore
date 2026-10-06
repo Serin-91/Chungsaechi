@@ -1,6 +1,3 @@
 .venv/
-*.png
-*.pdf
 __pycache__/
 .env
-samples/
